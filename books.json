@@ -1,0 +1,415 @@
+[
+    {
+        "id": 1,
+        "bookTitle": "বাসর",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 250 TK. 188 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Basor-Humayun_Ahmed-0bce8-934.jpg"
+    },
+    {
+        "id": 2,
+        "bookTitle": "বিপদ",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 150 TK. 113 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Bipod-Humayun_Ahmed-e8402-1359.jpg"
+    },
+    {
+        "id": 3,
+        "bookTitle": "পায়ের তলায় খড়ম",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 380 TK. 285 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/ed78e6bea794_13144.gif"
+    },
+    {
+        "id": 4,
+        "bookTitle": "রাবণের দেশে আমি ও আমরা",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 300 TK. 225 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/bdbbe0002_1175.jpg"
+    },
+    {
+        "id": 5,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী ২",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/4f897c2bc_1154.jpg"
+    },
+    {
+        "id": 6,
+        "bookTitle": "শিশুকিশোর রচনাবলী -২য় খণ্ড",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 1,000 TK. 750 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/56763ac58a64_141398.jpg"
+    },
+    {
+        "id": 7,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী ৮",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/5ad575260_91408.jpg"
+    },
+    {
+        "id": 8,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী-৬",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/978c5765d_69971.jpg"
+    },
+    {
+        "id": 9,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী ৯",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/6581e41d33b4_123410.jpg"
+    },
+    {
+        "id": 10,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী ৩",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/9074b166d_1166.jpg"
+    },
+    {
+        "id": 11,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী - ৪",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/198bdd3d6_1167.jpg"
+    },
+    {
+        "id": 12,
+        "bookTitle": "সেরা পাঁচ হিমু",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 500 TK. 375 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/2ae975f12_114126.jpg"
+    },
+    {
+        "id": 13,
+        "bookTitle": "শ্রেষ্ঠ প্রেমের উপন্যাস",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 1,000 TK. 750 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/imgrok_20141214_971.gif"
+    },
+    {
+        "id": 14,
+        "bookTitle": "সেরা পাঁচ সায়েন্স ফিকশন",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 470 TK. 353 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/b42c9393e6e4_114124.gif"
+    },
+    {
+        "id": 15,
+        "bookTitle": "সেরা পাঁচ মুক্তিযুদ্ধের উপন্যাস",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 870 TK. 653 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/b0ec175a8964_128668.jpg"
+    },
+    {
+        "id": 16,
+        "bookTitle": "সেরা পাঁচ ভৌতিক উপন্যাস",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 535 TK. 401 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/9bc862977584_128670.jpg"
+    },
+    {
+        "id": 17,
+        "bookTitle": "সেরা পাঁচ কিশোর উপন্যাস",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 335 TK. 251 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/2a5a0c1e41b4_127787.jpg"
+    },
+    {
+        "id": 18,
+        "bookTitle": "২০১৮ সালের রকমারি বেস্ট সেলার রহস্য, গোয়েন্দা, ভৌতিক, থ্রিলার ও অ্যাডভেঞ্চার ৫টি বইয়ের কালেকশন",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 1,460 TK. 1,095 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/a2486f3b7_190524.jpg"
+    },
+    {
+        "id": 19,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী ১১",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/57d494f43_204340.jpg"
+    },
+    {
+        "id": 20,
+        "bookTitle": "৯০ দশকের নির্বাচিত পাঁচটি উপন্যাস",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 600 TK. 450 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/da6a63a30_199519.jpg"
+    },
+    {
+        "id": 21,
+        "bookTitle": "হুমায়ূন আহমেদ রচনাবলী ৭",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 800 TK. 600 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/770bfab90_72878.jpg"
+    },
+    {
+        "id": 22,
+        "bookTitle": "ময়ূরাক্ষী",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/923a19a70434_890.gif"
+    },
+    {
+        "id": 23,
+        "bookTitle": "মিসির আলি সমগ্র ১",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 1,000 TK. 750 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Misir_Ali_Samagra_1-Humayun_Ahmed-3ad64-56.jpg"
+    },
+    {
+        "id": 24,
+        "bookTitle": "তোমাকে",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 175 TK. 131 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1bf45d109584_884.gif"
+    },
+    {
+        "id": 25,
+        "bookTitle": "কোথাও কেউ নেই",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 400 TK. 300 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Kothao_Kew_Nei-Humayun_Ahmed-f86bd-1241.jpg"
+    },
+    {
+        "id": 26,
+        "bookTitle": "গৌরীপুর জংশন",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 120 TK. 90 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/c9db882b8_1238.jpg"
+    },
+    {
+        "id": 27,
+        "bookTitle": "দেবী",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/02a54b70c_1207.jpg"
+    },
+    {
+        "id": 28,
+        "bookTitle": "মিসির আলি সমগ্র ২",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 500 TK. 375 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Misir_Ali_Somogro_2-Humayun_Ahmed-6b526-15313.jpg"
+    },
+    {
+        "id": 29,
+        "bookTitle": "মেঘ বলেছে যাব যাব",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 550 TK. 413 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/7ce68288f_1206.jpg"
+    },
+    {
+        "id": 30,
+        "bookTitle": "বোতল ভূত",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 150 TK. 113 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/57fc71c3d_1306.jpg"
+    },
+    {
+        "id": 31,
+        "bookTitle": "তুমি আমায় ডেকেছিলে ছুটির নিমন্ত্রণে",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 160 TK. 120 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/b3730aace704_1223.gif"
+    },
+    {
+        "id": 32,
+        "bookTitle": "তোমাদের জন্য রূপকথা",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 150 TK. 113 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/a76286461_1307.jpg"
+    },
+    {
+        "id": 33,
+        "bookTitle": "নিশীথিনী",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 240 TK. 180 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/1d7737440_1280.jpg"
+    },
+    {
+        "id": 34,
+        "bookTitle": "আমার ছেলেবেলা",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 240 TK. 180 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Amar_Chelebela-Humayun_Ahmed-9e0b7-1240.jpg"
+    },
+    {
+        "id": 35,
+        "bookTitle": "বহুব্রীহি",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 350 TK. 263 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Bohubrihi-Humayun_Ahmed-24325-1211.png"
+    },
+    {
+        "id": 36,
+        "bookTitle": "১৯৭১",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 175 TK. 131 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/97779befa_1215.jpg"
+    },
+    {
+        "id": 37,
+        "bookTitle": "দি একসরসিস্ট",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/rokimg_20140709_1260.GIF"
+    },
+    {
+        "id": 38,
+        "bookTitle": "তিনি ও সে",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 100 TK. 75 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/img141210_875.gif"
+    },
+    {
+        "id": 39,
+        "bookTitle": "আকাশ জোড়া মেঘ",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 220 TK. 165 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/225567411_1282.jpg"
+    },
+    {
+        "id": 40,
+        "bookTitle": "অন্যভুবন",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/d61120de9_883.jpg"
+    },
+    {
+        "id": 41,
+        "bookTitle": "হোটেল গ্রেভার ইন",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 160 TK. 120 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/12bd14b5bb14_1229.gif"
+    },
+    {
+        "id": 42,
+        "bookTitle": "শুভ্র সমগ্র",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 600 TK. 450 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/66a7050a0_126.jpg"
+    },
+    {
+        "id": 43,
+        "bookTitle": "যখন গিয়েছে ডুবে পঞ্চমীর চাঁদ",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 150 TK. 113 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/rokimg_20140709_1253.gif"
+    },
+    {
+        "id": 44,
+        "bookTitle": "কবি",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 400 TK. 300 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/e4347ad95_1226.jpg"
+    },
+    {
+        "id": 45,
+        "bookTitle": "মেঘের ছায়া",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/3b13cf1a0_1279.jpg"
+    },
+    {
+        "id": 46,
+        "bookTitle": "নিষাদ",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 180 TK. 135 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/025325a85624_1281.gif"
+    },
+    {
+        "id": 47,
+        "bookTitle": "সূর্যের দিন",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 160 TK. 120 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/b7d28b0db_1252.jpg"
+    },
+    {
+        "id": 48,
+        "bookTitle": "সমুদ্র বিলাস",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 180 TK. 135 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/7893ff730_1235.jpg"
+    },
+    {
+        "id": 49,
+        "bookTitle": "ভূত ভুতং ভূতৌ",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/8214bbc1d644_1230.gif"
+    },
+    {
+        "id": 50,
+        "bookTitle": "কুহক",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 150 TK. 113 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/c6e0d9b4b424_1286.gif"
+    },
+    {
+        "id": 51,
+        "bookTitle": "হিমু এবং একটি রাশিয়ান পরী",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/dbf7445dc_4883.jpg"
+    },
+    {
+        "id": 52,
+        "bookTitle": "ফেরা",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 225 TK. 169 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Fera-Humayun_Ahmed-b5bba-1210.jpg"
+    },
+    {
+        "id": 53,
+        "bookTitle": "সম্রাট",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 190 TK. 143 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/4ff87032a_1261.jpg"
+    },
+    {
+        "id": 54,
+        "bookTitle": "দ্বৈরথ",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/4a45431b5_1236.jpg"
+    },
+    {
+        "id": 55,
+        "bookTitle": "ভয়",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 275 TK. 206 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Bhoy-Humayun_Ahmed-12bb4-1212.jpg"
+    },
+    {
+        "id": 56,
+        "bookTitle": "মৃন্ময়ীর মন ভালো নেই",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 200 TK. 150 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/imgrok0610_1225.gif"
+    },
+    {
+        "id": 57,
+        "bookTitle": "নির্বাচিত ভূতের গল্প",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 350 TK. 263 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/imgrok_49.GIF"
+    },
+    {
+        "id": 58,
+        "bookTitle": "মে ফ্লাওয়ার",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 175 TK. 131 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/cbddaa1f0764_127.gif"
+    },
+    {
+        "id": 59,
+        "bookTitle": "পেন্সিলে আঁকা পরী",
+        "bookAuthor": "হুমায়ূন আহমেদ",
+        "bookPrice": " TK. 240 TK. 180 ",
+        "bookImg": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/7fd48ac26d54_1287.gif"
+    }
+]
